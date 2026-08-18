@@ -1,0 +1,38 @@
+#Top-buttons {
+	background-color: rgba(23, 108, 165, 0.85);
+	backdrop-filter: blur(0.3rem);
+	border-radius: .3rem;
+	border: transparent;
+	color: rgb(12, 241, 245);
+	width: 8rem;
+	height: 1.2rem;
+}
+
+#Top-buttons:hover {
+	background-color: rgba(28, 132, 201, 0.8);
+}
+
+body {
+	background-image: url('image0.gif');
+}
+
+#header1 {
+	color: rgb(12, 241, 245);
+	background-color: rgba(5, 93, 150, 0.85);
+	backdrop-filter: blur(0.3rem);
+	border-radius: .5rem;
+	width: 16rem;
+	height: 1.5rem;
+	text-align: center;
+}
+
+#introP {
+	color: rgb(12, 241, 245);
+	background-color: rgba(5, 93, 150, 0.85);
+	backdrop-filter: blur(0.3rem);
+	border-radius: .5rem;
+	width: 28rem;
+	height: 4.3rem;
+	text-align: center;
+
+}
